@@ -4,3 +4,9 @@ In Progress:
 * https://www.masterclass.com/classes/howard-schultz-leading-a-values-based-business
 
 Completed:
+
+*
+
+Next:
+
+*
