@@ -1,6 +1,6 @@
 In Progress:
 
-* -
+* 
 
 Completed:
 * https://www.udemy.com/complete-ios-10-developer-course/
